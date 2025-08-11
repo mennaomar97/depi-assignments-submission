@@ -1,0 +1,19 @@
+{
+    "Field Name": [
+        "Username:",
+        "Password:",
+        "Choose an option:",
+        "I agree to the terms and conditions"
+    ],
+    "Input Type": [
+        "text",
+        "password",
+        "checkbox",
+        "submit"
+    ],
+    "Default Values": [
+        "option1",
+        "option2",
+        "option3"
+    ]
+}
